@@ -8,7 +8,7 @@
 }
 .flag {
     width: 440px;
-    padding: 60px 40px 60px 40px;
+    padding: 60px 40px;
     border: 1px solid #BC002D;
     margin: 20px auto 20px auto;
 }
@@ -17,5 +17,5 @@
     width: 160px;
     border-radius: 100%;
     background: #BC002D;
-    margin: 20px auto 20px auto;
+    margin: 20px auto;
 }
