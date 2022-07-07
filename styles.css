@@ -1,0 +1,21 @@
+.dis {
+    text-align: center;
+    color:#BC002D;
+    margin: 20px auto 60px auto;
+    width: 400px;
+    border: 4px dotted #BC002D;
+    padding: 10px;
+}
+.flag {
+    width: 440px;
+    padding: 60px 40px 60px 40px;
+    border: 1px solid #BC002D;
+    margin: 20px auto 60px auto;
+}
+.circle {
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+    background: #BC002D;
+    margin: 20px auto 20px auto;
+}
